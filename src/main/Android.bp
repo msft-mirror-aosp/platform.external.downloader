@@ -60,5 +60,6 @@ android_library {
     ],
     visibility: [
         "//external/libtextclassifier:__subpackages__",
+        "//external/mobile-data-download:__subpackages__",
     ],
 }
