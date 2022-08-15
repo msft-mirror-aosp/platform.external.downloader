@@ -58,6 +58,7 @@ android_library {
         "//apex_available:platform",
         "com.android.extservices",
         "com.android.adservices",
+        "com.android.ondevicepersonalization",
     ],
     visibility: [
         "//external/libtextclassifier:__subpackages__",
